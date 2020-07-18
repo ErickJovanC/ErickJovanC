@@ -1,10 +1,10 @@
-######Hola, soy Erick Jovan De La Cruz
+###### Hola, soy Erick Jovan De La Cruz
 
 Soy **Desarrollador Web Jr.** y me apaciona la tecnología así cmo los lenguajes de programación.
 
 *Me gusta el desarrollo web en general, aunque me inclino ligeramente hacia el backend.*
 
-Actualmente me encuentro estudiando de forma independiente JavaScript Moderno, principios de NodeJS en constante aprendizaje del uso de Visual Studio Code "Mi editor de código favorito"
+Actualmente me encuentro estudiando de forma independiente JavaScript Moderno, principios de NodeJS en constante aprendizaje del uso de Visual Studio Code *"Mi editor de código favorito"*
 
 ## Mis Habilidades
 * HTML5 - Intermedio
