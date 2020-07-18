@@ -1,4 +1,4 @@
-###### Hola, soy Erick Jovan De La Cruz
+# Hola, soy Erick Jovan De La Cruz
 
 Soy **Desarrollador Web Jr.** y me apaciona la tecnología así cmo los lenguajes de programación.
 
@@ -25,4 +25,5 @@ Actualmente me encuentro estudiando de forma independiente JavaScript Moderno, p
 
 ## Contacto
 Mandame un Tweet [Twitter](https://twitter.com/ErickJovanC)
+
 Escribeme un e-mail [Gmail](erickjovan106@gmail.com)
