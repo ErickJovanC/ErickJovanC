@@ -26,4 +26,4 @@ Actualmente me encuentro estudiando de forma independiente JavaScript Moderno, p
 ## Contacto
 Mandame un Tweet [Twitter](https://twitter.com/ErickJovanC)
 
-Escribeme un e-mail [Gmail](erickjovan106@gmail.com)
+Escribeme un e-mail [Gmail](mailto:erickjovan106@gmail.com)
