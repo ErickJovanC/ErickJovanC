@@ -17,6 +17,7 @@ Mi framework favorito es ***Laravel***, pero siempre estoy abierto a aprender lo
 |Laravel | Intermedio|
 |Yii | Intermedio|
 |MySQL / MariaDB | Intermedio|
+|Git | Intermedio|
 |Wordpress | Básico|
 |Ingles Técnico | Leído|
 
@@ -28,13 +29,13 @@ Mi framework favorito es ***Laravel***, pero siempre estoy abierto a aprender lo
 * Comprometido
 
 ## Contacto
-Contactame en Linkedin [Linkedin](https://www.linkedin.com/in/erick-jovan-de-la-cruz-a7333a181/)
+Contactame en [Linkedin](https://www.linkedin.com/in/erick-jovan-de-la-cruz-a7333a181/)
 
-Mandame un Tweet [Twitter](https://twitter.com/ErickJovanC)
+Mandame un [Tweet](https://twitter.com/ErickJovanC)
 
-Escribeme un e-mail [Gmail :e-mail:](mailto:erickjovan106@gmail.com)
+Escribeme en [Gmail :e-mail:](mailto:erickjovan106@gmail.com)
 
-```php
+```
            _      _    _
           (_)    | |  (_)
   ___ _ __ _  ___| | ___  _____   ____ _ _ __
