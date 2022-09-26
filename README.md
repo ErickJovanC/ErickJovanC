@@ -1,4 +1,4 @@
-# Hola :wave:, soy Erick Jovan De La Cruz :boy:
+# Hola :wave:, soy *Erick Jovan De La Cruz* :boy:
 
 Soy **Desarrollador backend en PHP**, apasionado por la tecnolgía :computer:, el desarrollo de software y los teclados :keyboard:.
 
@@ -11,10 +11,11 @@ Mi framework favorito es ***Laravel***, pero siempre estoy abierto a aprender lo
 |--|--|
 |HTML5 | Intermedio|
 |CSS3 | Básico|
-|BootStrap | Intermedio|
+|Bootstrap | Intermedio|
 |JavaScript | Intermedio|
 |PHP | Intermedio|
 |Laravel | Intermedio|
+|Yii | Intermedio|
 |MySQL / MariaDB | Intermedio|
 |Wordpress | Básico|
 |Ingles Técnico | Leído|
@@ -28,7 +29,9 @@ Mi framework favorito es ***Laravel***, pero siempre estoy abierto a aprender lo
 
 ## Contacto
 Contactame en Linkedin [Linkedin](https://www.linkedin.com/in/erick-jovan-de-la-cruz-a7333a181/)
+
 Mandame un Tweet [Twitter](https://twitter.com/ErickJovanC)
+
 Escribeme un e-mail [Gmail :e-mail:](mailto:erickjovan106@gmail.com)
 
 ```php
